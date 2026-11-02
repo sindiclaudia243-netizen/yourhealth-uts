@@ -47,7 +47,7 @@ main{
     width: 100%;
     background-color: var(--green-light);
     padding: 8px 50px 8px 50px;
-    height: var(--top-bar-height);
+    height: var(--header-bar1-height);
 }
 .header-bar2{
     background-color: var(--cream);
